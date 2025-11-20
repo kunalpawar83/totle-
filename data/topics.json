@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Blockchain Basics", "category": "Finance" },
+  { "id": 2, "name": "Smart Contracts", "category": "Engineering" },
+  { "id": 3, "name": "Tokenomics", "category": "Economics" },
+  { "id": 4, "name": "DeFi Platforms", "category": "Finance" },
+  { "id": 5, "name": "Layer 2 Solutions", "category": "Engineering" }
+]
